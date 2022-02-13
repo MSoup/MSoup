@@ -32,7 +32,7 @@ Twitter: https://twitter.com/MSoup10
 
 ## Work-history
 
-#### Software Engineer at Triplet R&D
+### Software Engineer at Triplet R&D
 _August 2021 - Present_  
 First and only full-time foreigner employee. A lot of my work involves meeting with Japanese clients, listening to their problems, and trying to come up with solutions to them that can be solved with software. 
 
