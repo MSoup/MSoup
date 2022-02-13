@@ -45,7 +45,7 @@ Accomplishments:
     
 - Implemented CI/CD (Github Actions) to company internal tools, for more efficient testing and deployment.
 
-#### Full Stack Software Engineer at Solacom (Long Term Intern)
+### Full Stack Software Engineer at Solacom (Long Term Intern)
 _March 2021 - August 2021 - 6 months_  
 Solacom wanted to expand headquarters into America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
 
@@ -53,7 +53,7 @@ Accomplishments:
 - My [modern single page application style website](https://solacom.gatsbyjs.io/) built with React and GatsbyJS was extremely positively received by the staff and CEO. 
 - I mentored interns on the creation of a social distance detector using openCV (Python image detection library)
 
-#### Sendai City Hello World Programme Participant at the Sendai City Board of Education (Direct Hire)
+### Sendai City Hello World Programme Participant at the Sendai City Board of Education (Direct Hire)
 _August 2018 - April 2021 - 3 years_  
 Direct-hire Assistant Language Teacher at one of the top ranked model elementary schools in Japan for English education. 
 
@@ -64,7 +64,7 @@ Accomplishments:
 - Saved 50+ hours of labor a year by automating the translation of students’ Japanese names to Hepburn-style English. This let me automatically generate English romaji nametags for all students in all of my schools.
 
 
-#### Assistant Language Teacher at Hachinohe Board of Education (JET Programme)
+### Assistant Language Teacher at Hachinohe Board of Education (JET Programme)
 _August 2013 - August 2018 - 5 years_  
 I taught English to Elementary School and Junior High School students.
 
@@ -73,7 +73,7 @@ Accomplishments:
 - I interpreted (Japanese to English) for local governments and enabled communication between sister schools between Hachinohe, Aomori and Portland, Oregon
 - Through my coaching, my students placed top 3 in the city English speech contest every year I was there
 
-#### Manager Promotions Fulfilment at Young America Corporation
+### Manager for Promotions Fulfilment at Young America Corporation
 _September 2004 - September 2008 - 4 years_  
 I managed loyalty programs that increased customer retention for big name clients like Microsoft, Hewlett Packard, Lowes, US Cellular, Verizon, AT&T and more. 
 
