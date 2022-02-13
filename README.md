@@ -6,7 +6,7 @@
 
 I am a full stack developer based in Japan. I play Dance Dance Revolution competitively. 
 
-Navigation
+## Navigation
 - [About Me](#about)
 - [Contact](#contact)
 - [Work History](#work-history)
