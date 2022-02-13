@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I am a multi-discipline full stack developer based in Japan. I am fascinated by economics and financial markets, as well as tech. My resume can be found [here](#resume)
+I am a multi-discipline full stack developer based in Japan. I am fascinated by Dance Dance Revolution, economics, financial markets, as well as tech. My resume can be found [here](#resume)
 
 ## Navigation
 - [About Me](#about)
