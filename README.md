@@ -12,6 +12,7 @@ I am a full stack developer based in Japan. I play Dance Dance Revolution compet
 - [Work History](#work-history)
 - [Exemplary Projects](#projects)
 - [Education](#education)
+- [Resume](#resume)
 
 ## About
 Born and raised in Canada, I've been involved in tech my whole life. In high school, I was in the top 1% of typists in Canada (at 136 words per minute, but I've since dropped down to about 110 words per minute at present), and my fondest memories involve me partaking in engineering competitions.  
@@ -93,3 +94,7 @@ Ritsumeikan Asia Pacific University(立命館アジア太平洋大学)
 Oita, Japan 
 
 _April 2012 - August 2012 - 1 semester_
+
+## Resume
+Updated as of February 2022
+Get [here](https://drive.google.com/file/d/1CT-4E9NPT90o7CqkX4P_ufm4UadAuqDi/view?usp=sharing)
