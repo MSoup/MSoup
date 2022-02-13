@@ -14,22 +14,25 @@ I am a full stack developer based in Japan. I play Dance Dance Revolution compet
 - [Education](#education)
 
 ## About
-Born and raised in Canada, I've been involved in tech my whole life. In high school, I was in the top 1% of typists in Canada (at 136 words per minute, but I've since dropped down to about 110 words per minute at present), and my fondest memories involve me partaking in engineering competitions.
-My fascination with tech and engineering brought me to the University of Waterloo, Canada with several scholarships. I studied a lot of chemistry, a lot of computer science, and I ended up graduating with a degree in... Economics! 
-With that, I was on track to joining a big-3 bank in Canada as a data analyst, but threw everything away to come to Japan. Read on to find out more about my [career history](#work-history) and [personal projects](#projects).
-I enjoy volleyball, lifting weights, eSports, and home automation. I don’t recommend curtains that open automatically.
+Born and raised in Canada, I've been involved in tech my whole life. In high school, I was in the top 1% of typists in Canada (at 136 words per minute, but I've since dropped down to about 110 words per minute at present), and my fondest memories involve me partaking in engineering competitions.  
+
+My fascination with tech and engineering brought me to the University of Waterloo, Canada with several scholarships. I studied a lot of chemistry, a lot of computer science, and I ended up graduating with a degree in... Economics!  
+
+With that, I was on track to joining a big-3 bank in Canada as a data analyst, but threw everything away to come to Japan. Read on to find out more about my [career history](#work-history) and [personal projects](#projects).  
+
+I enjoy volleyball, lifting weights, eSports, and home automation. I don’t recommend curtains that open automatically.  
 
 ## Contact
-Phone: 080-7857-4070
-Email (preferred method of contact):  davenlu1989 (at) gmail (dot) com
-Location: Miyagi, Japan (Can relocate)
-Facebook: https://www.facebook.com/daven.lu
-Twitter: https://twitter.com/MSoup10
+Phone: 080-7857-4070  
+Email (preferred method of contact):  davenlu1989 (at) gmail (dot) com  
+Location: Miyagi, Japan (Can relocate)  
+Facebook: https://www.facebook.com/daven.lu  
+Twitter: https://twitter.com/MSoup10  
 
 ## Work-history
 
 #### Software Engineer at Triplet R&D
-_August 2021 - Present_
+_August 2021 - Present_  
 First and only full-time foreigner employee. A lot of my work involves meeting with Japanese clients, listening to their problems, and trying to come up with solutions to them that can be solved with software. 
 
 Accomplishments:
@@ -41,9 +44,8 @@ Accomplishments:
     
 - Implemented CI/CD (Github Actions) to company internal tools, for more efficient testing and deployment.
 
-
 #### Full Stack Software Engineer at Solacom (Long Term Intern)
-_March 2021 - August 2021 - 6 months_
+_March 2021 - August 2021 - 6 months_  
 Solacom wanted to expand headquarters into America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
 
 Accomplishments:
@@ -51,7 +53,7 @@ Accomplishments:
 - I mentored interns on the creation of a social distance detector using openCV (Python image detection library)
 
 #### Sendai City Hello World Programme Participant at the Sendai City Board of Education (Direct Hire)
-_August 2018 - April 2021 - 3 years_
+_August 2018 - April 2021 - 3 years_  
 Direct-hire Assistant Language Teacher at one of the top ranked model elementary schools in Japan for English education. 
 
 Accomplishments:
@@ -62,7 +64,7 @@ Accomplishments:
 
 
 #### Assistant Language Teacher at Hachinohe Board of Education (JET Programme)
-_August 2013 - August 2018 - 5 years_
+_August 2013 - August 2018 - 5 years_  
 I taught English to Elementary School and Junior High School students.
 
 Accomplishments:
@@ -71,7 +73,7 @@ Accomplishments:
 - Through my coaching, my students placed top 3 in the city English speech contest every year I was there
 
 #### Manager Promotions Fulfilment at Young America Corporation
-_September 2004 - September 2008 - 4 years_
+_September 2004 - September 2008 - 4 years_  
 I managed loyalty programs that increased customer retention for big name clients like Microsoft, Hewlett Packard, Lowes, US Cellular, Verizon, AT&T and more. 
 
 Accomplishments: 
@@ -84,8 +86,10 @@ TODO: For now, please see my pinned repositories for a taste of some of the proj
 ## Education
 University of Waterloo
 Bachelor of Arts, Economics, Waterloo, Ontario, Canada
+
 _September 2008 - May 2013_
 
 Ritsumeikan Asia Pacific University(立命館アジア太平洋大学)
 Oita, Japan 
+
 _April 2012 - August 2012 - 1 semester_
