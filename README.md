@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I am a multi-discipline full stack developer based in Japan. I am fascinated by Dance Dance Revolution, economics, financial markets, as well as tech. My resume can be found [here](#resume)
+I am a multi-disciplined full stack developer based in Japan. I love Dance Dance Revolution, economics, financial markets, as well as tech. My resume can be found [here](#resume)
 
 ## Navigation
 - [About Me](#about)
@@ -13,6 +13,7 @@ I am a multi-discipline full stack developer based in Japan. I am fascinated by 
 - [Exemplary Projects](#projects)
 - [Education](#education)
 - [Resume](#resume)
+- [Proud Accomplishments](#accomplishments)
 
 ## About
 Born and raised in Canada, I've been involved in tech my whole life. In high school, I was in the top 1% of typists in Canada (at 136 words per minute, but I've since dropped down to about 110 words per minute at present), and my fondest memories involve me partaking in engineering competitions.  
@@ -98,3 +99,9 @@ _April 2012 - August 2012 - 1 semester_
 ## Resume
 Updated as of February 2022
 Get [here](https://drive.google.com/file/d/1CT-4E9NPT90o7CqkX4P_ufm4UadAuqDi/view?usp=sharing)
+
+## Accomplishments
+Three things I'm *super* proud about:  
+1. In university I quickly became the co-president of the Dance Dance Revolution club and grew it from 5 to over 200 members.
+2. I studied my way into being effectively bilingual (Japanese/English)
+3. I used the above study discipline to pivot my career into software engineering
