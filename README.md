@@ -13,7 +13,7 @@ I am a multi-disciplined full stack developer based in Japan. I love Dance Dance
 - [Exemplary Projects](#projects)
 - [Education](#education)
 - [Resume](#resume)
-- [Proud Accomplishments](#accomplishments)
+- [Certifications / Accomplishments](#accomplishments)
 
 ## About
 Born and raised in Canada, I've been involved in tech my whole life. In high school, I was in the top 1% of typists in Canada (at 136 words per minute, but I've since dropped down to about 110 words per minute at present), and my fondest memories involve me partaking in engineering competitions.  
@@ -100,7 +100,16 @@ _April 2012 - August 2012 - 1 semester_
 Updated as of February 2022
 Get [here](https://drive.google.com/file/d/1CT-4E9NPT90o7CqkX4P_ufm4UadAuqDi/view?usp=sharing)
 
-## Accomplishments
+## Certifications / Accomplishments
+- Japanese Language Proficiency Test (JLPT) N1
+- Amazon Web Services Cloud Practitioner
+- MITx 6.00.1 - Introduction to Computer Science and Programming Using Python
+- MITx 6.00.2 - Introduction to Computational Thinking and Data Science
+- The Odin Project - Full Stack Course
+- Gengo Pro Level Translator
+- TEFL 120H
+
+
 Three things I'm *super* proud about:  
 1. In university I quickly became the co-president of the Dance Dance Revolution club and grew it from 5 to over 200 members.
 2. I studied my way into being effectively bilingual (Japanese/English)
