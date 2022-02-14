@@ -100,7 +100,7 @@ _April 2012 - August 2012 - 1 semester_
 Updated as of February 2022
 Get [here](https://drive.google.com/file/d/1CT-4E9NPT90o7CqkX4P_ufm4UadAuqDi/view?usp=sharing)
 
-## Certifications / Accomplishments
+## Accomplishments
 - Japanese Language Proficiency Test (JLPT) N1
 - Amazon Web Services Cloud Practitioner
 - MITx 6.00.1 - Introduction to Computer Science and Programming Using Python
