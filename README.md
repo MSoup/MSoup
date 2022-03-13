@@ -97,8 +97,8 @@ Oita, Japan
 _April 2012 - August 2012 - 1 semester_
 
 ## Resume
-Updated as of February 2022
-Get [here](https://drive.google.com/file/d/1CT-4E9NPT90o7CqkX4P_ufm4UadAuqDi/view?usp=sharing)
+Updated as of March 2022
+Get [here](https://docs.google.com/document/d/1GE0XXqJ97a3yLgTvdsVay5VyMboe6eVCNkJ-QU0Zzzs/edit?usp=sharing)
 
 ## Accomplishments
 - Japanese Language Proficiency Test (JLPT) N1
