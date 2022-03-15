@@ -33,20 +33,20 @@ Twitter: https://twitter.com/MSoup10
 
 ## Work-history
 
-### Software Engineer at Triplet R&D
+### System Engineer - Triplet R&D
 _August 2021 - Present_  
-First and only full-time foreigner employee. A lot of my work involves meeting with Japanese clients, listening to their problems, and trying to come up with solutions to them that can be solved with software. 
+First and only full-time foreigner employee. A lot of my work involves meeting with Japanese clients, listening to their problems, and coming up with solutions that can be solved with software. 
 
 Accomplishments:
--   Increased web application performance by 35% by fixing up and porting over a codebase responsible for analyzing sensors to detect faulty equipment  (ASP.NET C# MVC framework to a modern Python framework using Django, VueJS, Vuetify, Nginx, Docker, SQL Server).
+-   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
     
--   Acquired new clients for the company by providing a solution for trustless authentication: utilized Amazon Web Services’ Amazon Cognito to Implement a single-sign-on solution to a Django backend.
+-   Solved a race condition problem where fault detectors didn’t trigger when they should have and saved tens of thousands of dollars of lost productivity
     
 -   Bridge Engineer / PM work experience: Oversaw the development of a video streaming app. Dockerized and deployed the app for the client.
     
-- Implemented CI/CD (Github Actions) to company internal tools, for more efficient testing and deployment.
+- Established a set of best practices for version control by suggesting better naming conventions and incorporating Github Actions scripts to check builds, resulting in a significantly enhanced workflow
 
-### Full Stack Software Engineer at Solacom (Long Term Intern)
+### Full Stack Software Engineer - Solacom (Long Term Intern)
 _March 2021 - August 2021 - 6 months_  
 Solacom wanted to expand headquarters into America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
 
@@ -54,7 +54,7 @@ Accomplishments:
 - My [modern single page application style website](https://solacom.gatsbyjs.io/) built with React and GatsbyJS was extremely positively received by the staff and CEO. 
 - I mentored interns on the creation of a social distance detector using openCV (Python image detection library)
 
-### Sendai City Hello World Programme Participant at the Sendai City Board of Education (Direct Hire)
+### Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)
 _August 2018 - April 2021 - 3 years_  
 Direct-hire Assistant Language Teacher at one of the top ranked model elementary schools in Japan for English education. 
 
@@ -65,7 +65,7 @@ Accomplishments:
 - Saved 50+ hours of labor a year by automating the translation of students’ Japanese names to Hepburn-style English. This let me automatically generate English romaji nametags for all students in all of my schools.
 
 
-### Assistant Language Teacher at Hachinohe Board of Education (JET Programme)
+### Assistant Language Teacher - Hachinohe Board of Education (JET Programme)
 _August 2013 - August 2018 - 5 years_  
 I taught English to Elementary School and Junior High School students.
 
@@ -98,7 +98,7 @@ _April 2012 - August 2012 - 1 semester_
 
 ## Resume
 Updated as of March 2022
-Get [here](https://docs.google.com/document/d/1GE0XXqJ97a3yLgTvdsVay5VyMboe6eVCNkJ-QU0Zzzs/edit?usp=sharing)
+Get [here](https://drive.google.com/file/d/1FC3nYBdN3o-a6GmmT9CAYOI1EUSYhk9F/view?usp=sharing)
 
 ## Accomplishments
 - Japanese Language Proficiency Test (JLPT) N1
