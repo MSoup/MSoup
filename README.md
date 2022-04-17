@@ -4,7 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I am a multi-disciplined full stack developer based in Japan. I love Dance Dance Revolution, economics, financial markets, as well as tech. My resume can be found [here](#resume)
+I'm a full stack developer based in Japan. 
+
+I love Dance Dance Revolution, economics, financial markets, as well as tech. My resume is [here](#resume)
 
 ## Navigation
 - [About Me](#about)
@@ -16,11 +18,7 @@ I am a multi-disciplined full stack developer based in Japan. I love Dance Dance
 - [Certifications / Accomplishments](#accomplishments)
 
 ## About
-Born and raised in Canada, I've been involved in tech my whole life. In high school, I was in the top 1% of typists in Canada (at 136 words per minute, but I've since dropped down to about 110 words per minute at present), and my fondest memories involve me partaking in engineering competitions.  
-
-My fascination with tech and engineering brought me to the University of Waterloo, Canada with several scholarships. I studied a lot of chemistry, a lot of computer science, and I ended up graduating with a degree in... Economics!  
-
-With that, I was on track to joining a big-3 bank in Canada as a data analyst, but threw everything away to come to Japan. Read on to find out more about my [career history](#work-history) and [personal projects](#projects).  
+Born and raised in Canada, I was on track to joining a big-3 bank in Canada as a data analyst, but threw everything away to come to Japan. Read on to find out more about my [career history](#work-history) and [personal projects](#projects).  
 
 I enjoy volleyball, lifting weights, eSports, and home automation. I don’t recommend curtains that open automatically.  
 
