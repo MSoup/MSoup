@@ -31,9 +31,13 @@ Twitter: https://twitter.com/MSoup10
 
 ## Work-history
 
+### Software Engineer - Innovature Technologies
+_June 2022 - Present_
+Leading a team of engineers on a SaaS product that drives the advertising of multi million dollar corporations. Tasks involve being a bridge engineer to close the communication gaps between Japanese and English developers. 
+
 ### System Engineer - Triplet R&D
-_August 2021 - Present_  
-First and only full-time foreigner employee. A lot of my work involves meeting with Japanese clients, listening to their problems, and coming up with solutions that can be solved with software. 
+_August 2021 - June 2022_
+First and only full-time foreigner employee. A lot of my work involved meeting with Japanese clients, listening to their problems, and coming up with solutions that can be solved with software. 
 
 Accomplishments:
 -   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
