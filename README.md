@@ -4,9 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I'm a full stack developer based in Japan. 
+I'm a Canadian developer based in Japan. 
 
-I love Dance Dance Revolution, economics, financial markets, as well as tech. My resume is [here](#resume)
+I love Dance Dance Revolution, economics, financial markets, and tech. My resume is [here](#resume)
 
 ## Navigation
 - [About Me](#about)
@@ -25,7 +25,7 @@ I enjoy volleyball, lifting weights, eSports, and home automation. I don’t rec
 ## Contact
 Phone: 080-7857-4070  
 Email (preferred method of contact):  davenlu1989 (at) gmail (dot) com  
-Location: Miyagi, Japan (Can relocate)  
+Location: Tokyo, Japan  
 Facebook: https://www.facebook.com/daven.lu  
 Twitter: https://twitter.com/MSoup10  
 
@@ -33,11 +33,13 @@ Twitter: https://twitter.com/MSoup10
 
 ### Software Engineer - Innovature Technologies
 _June 2022 - Present_  
-Leading a team of engineers on a SaaS product that drives the advertising of multi million dollar corporations. Tasks involve being a bridge engineer to close the communication gaps between Japanese and English developers. 
+Leading a team of engineers on a SaaS product that drives the advertising of world renowned companies. Tasks involve being a bridge engineer to close the communication gaps between Japanese and English developers. 
+Tech Stack: VueJS, AWS (EC2, ALB)
 
 ### System Engineer - Triplet R&D
 _August 2021 - June 2022_  
 First and only full-time foreigner employee. A lot of my work involved meeting with Japanese clients, listening to their problems, and coming up with solutions that can be solved with software. 
+Tech Stack: Javascript, Python (Django Rest Framewok)
 
 Accomplishments:
 -   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
@@ -51,6 +53,7 @@ Accomplishments:
 ### Full Stack Software Engineer - Solacom (Long Term Intern)
 _March 2021 - August 2021 - 6 months_  
 Solacom wanted to expand headquarters into America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
+Tech Stack: React, GatsbyJS, NextJS
 
 Accomplishments:
 - My [modern single page application style website](https://solacom.gatsbyjs.io/) built with React and GatsbyJS was extremely positively received by the staff and CEO. 
@@ -99,8 +102,8 @@ Oita, Japan
 _April 2012 - August 2012 - 1 semester_
 
 ## Resume
-Updated as of March 2022
-Get [here](https://drive.google.com/file/d/1FC3nYBdN3o-a6GmmT9CAYOI1EUSYhk9F/view?usp=sharing)
+Updated as of November 2022
+Get [here](https://drive.google.com/file/d/1iado7fcH04yTOhYfTbhKuDgjjwceEKmP/view)
 
 ## Accomplishments
 - Japanese Language Proficiency Test (JLPT) N1
