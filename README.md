@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I'm a Canadian developer based in Japan. 
+I'm a Canadian developer based in Japan with 3 years of experience in various technologies. 
 
 I love Dance Dance Revolution, economics, financial markets, and tech. My resume is [here](#resume)
 
