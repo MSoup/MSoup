@@ -12,7 +12,7 @@ I love Dance Dance Revolution, economics, financial markets, and tech. My resume
 - [About Me](#about)
 - [Contact](#contact)
 - [Work History](#work-history)
-- [Code Examples](#Code Samples)
+- [Code Examples](#code-samples)
 - [Education](#education)
 - [Resume](#resume)
 - [Certifications / Accomplishments](#accomplishments)
