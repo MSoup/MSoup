@@ -89,10 +89,13 @@ Accomplishments:
 
 ## Code Samples
 ### Web Crawler API
+- Code sample [here](https://github.com/MSoup/http-crawler)
 - Type-safe web crawler that collects all anchor elements belonging to a domain
 - Unit tests included with Jest
 - Can be ran as a module (console output) or served as an API server
-- Code sample [here](https://github.com/MSoup/http-crawler)
+
+### Others
+- Please scroll to the bottom to see listed repositories I'm particularly proud of
 
 ## Education
 University of Waterloo
