@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I'm a Canadian developer based in Japan with 3 years of experience in various technologies. 
+I'm a Canadian developer based in Japan with 3 years of experience in various technologies, both as a software developer and as a bridge engineer. I'm bilingual in Japanese and English. 
 
 I love Dance Dance Revolution, economics, financial markets, and tech. My resume is [here](#resume)
 
@@ -12,7 +12,7 @@ I love Dance Dance Revolution, economics, financial markets, and tech. My resume
 - [About Me](#about)
 - [Contact](#contact)
 - [Work History](#work-history)
-- [Exemplary Projects](#projects)
+- [Code Examples](#Code Samples)
 - [Education](#education)
 - [Resume](#resume)
 - [Certifications / Accomplishments](#accomplishments)
@@ -87,8 +87,12 @@ Accomplishments:
 - scored amongst the top 1% for customer satisfaction and performance
 - identified a fraud ring with using regex flags and saved the company over $100,000 in fraudulent transactions
 
-## Projects
-TODO: For now, please see my pinned repositories for a taste of some of the projects I've tried. 
+## Code Samples
+### Web Crawler API
+- Type-safe web crawler that collects all anchor elements belonging to a domain
+- Unit tests included with Jest
+- Can be ran as a module (console output) or served as an API server
+- Code sample [here](https://github.com/MSoup/http-crawler)
 
 ## Education
 University of Waterloo
@@ -114,8 +118,3 @@ Get [here](https://drive.google.com/file/d/1iado7fcH04yTOhYfTbhKuDgjjwceEKmP/vie
 - Gengo Pro Level Translator
 - TEFL 120H
 
-
-Three things I'm *super* proud about:  
-1. In university I quickly became the co-president of the Dance Dance Revolution club and grew it from 5 to over 200 members.
-2. I studied my way into being effectively bilingual (Japanese/English)
-3. I used the above study discipline to pivot my career into software engineering
