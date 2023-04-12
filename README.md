@@ -31,8 +31,12 @@ Twitter: https://twitter.com/MSoup10
 
 ## Work-history
 
+### Software Engineer - Cloud Residency - Slalom
+_April 2023 - Present_
+Using everything I learned to date to become a cloud expert.
+
 ### Software Engineer - Innovature Technologies
-_June 2022 - Present_  
+_June 2022 - April 2023_  
 Leading a team of engineers on a SaaS product that drives the advertising of world renowned companies. Tasks involve being a bridge engineer to close the communication gaps between Japanese and English developers. 
 Tech Stack: VueJS, AWS (EC2, ALB)
 
