@@ -33,16 +33,17 @@ Twitter: https://twitter.com/MSoup10
 
 ### Software Engineer - Cloud Residency - Slalom
 _April 2023 - Present_
-Using everything I learned to date to become a cloud expert.
+Develop, test, and debug cloud full-stack applications, including serverless applications, using software engineering best practices.
+Architect and provision infrastructure to support a cloud three-tier web application using well-architected best practices.
 
 ### Software Engineer - Innovature Technologies
 _June 2022 - April 2023_  
-Leading a team of engineers on a SaaS product that drives the advertising of world renowned companies. Tasks involve being a bridge engineer to close the communication gaps between Japanese and English developers. 
-Tech Stack: VueJS, AWS (EC2, ALB)
+Lead a team of engineers on a SaaS product that drives the advertising of world renowned companies. Tasks involved acting as a bridge to lead communication between Japanese and English developers. 
+Tech Stack: VueJS, AWS (EC2, ALB, Redis, Cloudformation)
 
 ### System Engineer - Triplet R&D
 _August 2021 - June 2022_  
-First and only full-time foreigner employee. A lot of my work involved meeting with Japanese clients, listening to their problems, and coming up with solutions that can be solved with software. 
+Met with Japanese clients to provide tech solutions to existing pain points. 
 Tech Stack: Javascript, Python (Django Rest Framewok)
 
 Accomplishments:
