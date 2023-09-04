@@ -30,22 +30,20 @@ _April 2023 - Present_
 
 ### Software Engineer - Innovature Technologies
 _June 2022 - April 2023_  
-Lead a team of engineers on a SaaS product that drives the advertising of numerous world renowned companies. Tasks involved acting as a bridge to lead communication between Japanese and English developers. 
+Lead a team of engineers on a SaaS product that drives the advertising of numerous world renowned companies.   
 Tech Stack: VueJS, AWS (EC2, ALB, RDS, Redis, Cloudformation)
 
 ### System Engineer - Triplet R&D
 _August 2021 - June 2022_  
-Built dashboards for automotive companies and lead the initiative to revamp legacy parts monitoring applications.
+- Built dashboards for automotive companies and lead the initiative to revamp legacy parts monitoring applications.  
+-   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
+-   Solved a race condition problem where fault detectors didn’t trigger when they should have and saved tens of thousands of dollars of lost productivity
+-   Bridge Engineer / PM work experience: Oversaw the development of a video streaming app. Dockerized and deployed the app for the client.
+-   Established a set of best practices for version control by suggesting better naming conventions and incorporating Github Actions scripts to check builds, resulting in a significantly enhanced workflow
+
 Tech Stack: Javascript, Python (Django Rest Framewok)
 
 Accomplishments:
--   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
-    
--   Solved a race condition problem where fault detectors didn’t trigger when they should have and saved tens of thousands of dollars of lost productivity
-    
--   Bridge Engineer / PM work experience: Oversaw the development of a video streaming app. Dockerized and deployed the app for the client.
-    
-- Established a set of best practices for version control by suggesting better naming conventions and incorporating Github Actions scripts to check builds, resulting in a significantly enhanced workflow
 
 ### Full Stack Software Engineer - Solacom (Long Term Intern)
 _March 2021 - August 2021 - 6 months_  
