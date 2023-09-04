@@ -77,8 +77,10 @@ _August 2013 - August 2018 - 5 years_
 ### Web Automation CICD Pipeline
 - Code sample [here](https://github.com/MSoup/discord-market-publish)
 - A tool that integrates Github actions for a two-part system:
-1. Screenshots various financial instruments from investing.com
+1. Screenshots various financial instruments from investing.com via Playwright scripts (see below for report UI)
 2. Embeds them into discord via webhooks
+
+![sample_spec](https://github.com/MSoup/discord-market-publish/blob/main/assets/example_spec.png)
 
 ### Others
 - Please scroll to the bottom to see listed repositories I'm particularly proud of
