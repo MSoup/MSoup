@@ -9,18 +9,18 @@ I'm a Canadian developer based in Japan with 4 years of experience in various te
 
 I love economics, financial markets, and tech. My resume is [here](#resume)
 
-- [Welcome to my Github. I'm Dave.](#welcome-to-my-github-i-m-dave)
+- [Welcome](#welcome-to-my-github-i-m-dave)
   * [Contact](#contact)
   * [Work-history](#work-history)
-    + [Software Engineer - Slalom](#software-engineer---slalom)
-    + [Software Engineer - Innovature Technologies](#software-engineer---innovature-technologies)
-    + [System Engineer - Triplet R&D](#system-engineer---triplet-r-d)
-    + [Full Stack Software Engineer - Solacom (Long Term Intern)](#full-stack-software-engineer---solacom--long-term-intern-)
+    + [Software Engineer - Slalom (April 2023 - Present)](#software-engineer---slalom--april-2023---present-)
+    + [Software Engineer - Innovature Technologies (June 2022 - April 2023)](#software-engineer---innovature-technologies--june-2022---april-2023-)
+    + [System Engineer - Triplet R&D (August 2021 - June 2022)](#system-engineer---triplet-r-d--august-2021---june-2022-)
+    + [Full Stack Software Engineer - Solacom (Long Term Intern) (March 2021 - August 2021 - 6 months)](#full-stack-software-engineer---solacom--long-term-intern---march-2021---august-2021---6-months-)
   * [Before Entering Tech](#before-entering-tech)
     + [Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)](#sendai-city-hello-world-programme-participant---sendai-city-board-of-education--direct-hire-)
     + [Assistant Language Teacher - Hachinohe Board of Education (JET Programme)](#assistant-language-teacher---hachinohe-board-of-education--jet-programme-)
   * [Code Samples](#code-samples)
-    + [Web Crawler API](#web-crawler-api)
+    + [Web Automation](#Web-Automation-CICD-Pipeline)
     + [Others](#others)
   * [Education](#education)
   * [Resume](#resume)
@@ -35,8 +35,7 @@ Twitter: https://twitter.com/MSoup10
 
 ## Work-history
 
-### Software Engineer - Slalom
-_April 2023 - Present_
+### Software Engineer - Slalom (April 2023 - Present)
 - Architected and provisioned infrastructure to support a highly available web application in AWS
 - Produced a total cost of ownership estimate for the proposed solution
 - Provisioned infrastructure to support a three-tier web application and deployed to AWS
@@ -45,13 +44,11 @@ _April 2023 - Present_
 - Architected and provisioned CI/CD pipeline to automate deployment of code using Jenkins and AWS developer tooling
 - Created technical documentation that can be referred to by development team
 
-### Software Engineer - Innovature Technologies
-_June 2022 - April 2023_  
+### Software Engineer - Innovature Technologies (June 2022 - April 2023)
 Lead a team of engineers on a SaaS product that drives the advertising of numerous world renowned companies.   
 Tech Stack: VueJS, AWS (EC2, ALB, RDS, Redis, Cloudformation)
 
-### System Engineer - Triplet R&D
-_August 2021 - June 2022_  
+### System Engineer - Triplet R&D (August 2021 - June 2022) 
 - Built dashboards for automotive companies and lead the initiative to revamp legacy parts monitoring applications.  
 -   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
 -   Solved a race condition problem where fault detectors didn’t trigger when they should have and saved tens of thousands of dollars of lost productivity
@@ -60,8 +57,7 @@ _August 2021 - June 2022_
 
 Tech Stack: Javascript, Python (Django Rest Framewok)
 
-### Full Stack Software Engineer - Solacom (Long Term Intern)
-_March 2021 - August 2021 - 6 months_  
+### Full Stack Software Engineer - Solacom (Long Term Intern) (March 2021 - August 2021 - 6 months)
 Solacom wanted to expand headquarters into America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
 Tech Stack: React, GatsbyJS, NextJS
 
@@ -78,11 +74,11 @@ _August 2018 - April 2021 - 3 years_
 _August 2013 - August 2018 - 5 years_  
 
 ## Code Samples
-### Web Crawler API
-- Code sample [here](https://github.com/MSoup/http-crawler)
-- Type-safe web crawler that collects all anchor elements belonging to a domain
-- Unit tests included with Jest
-- Can be ran as a module (console output) or served as an API server
+### Web Automation CICD Pipeline
+- Code sample [here](https://github.com/MSoup/discord-market-publish)
+- A tool that integrates Github actions for a two-part system:
+1. Screenshots various financial instruments from investing.com
+2. Embeds them into discord via webhooks
 
 ### Others
 - Please scroll to the bottom to see listed repositories I'm particularly proud of
