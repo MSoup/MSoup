@@ -1,8 +1,10 @@
-![image](https://github.com/MSoup/MSoup/assets/19704779/daead117-53b2-4a15-89ea-0c1ab9348b8f)![image](https://github.com/MSoup/MSoup/assets/19704779/b2e9e700-91b5-4386-8298-c0b31134a7fb)# Welcome to my Github. I'm Dave.
+![image](https://github.com/MSoup/MSoup/assets/19704779/b2e9e700-91b5-4386-8298-c0b31134a7fb)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/davenlu/)](https://www.linkedin.com/in/davenlu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davenlu1989@gmail.com)](mailto:davenlu1989@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
+
+# Welcome to my Github. I'm Dave.
 
 I'm a Canadian developer based in Japan with 4 years of experience in various technologies, both as a software developer and as a bridge engineer. I'm bilingual in Japanese and English. 
 
