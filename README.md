@@ -21,8 +21,8 @@ Twitter: https://twitter.com/MSoup10
 ### Software Engineer - Slalom
 _April 2023 - Present_
 - Architected and provisioned infrastructure to support a highly available web application in AWS
-- Produced a total cost of ownership estimate for the proposed solution
-- Provisioned infrastructure to support a three-tier web application and deployed to AWS
+- Produced a total cost of ownership estimate for the proposed solution
+- Provisioned infrastructure to support a three-tier web application and deployed to AWS
 - Developed a serverless full stack application using React, API Gateway, Lambda, Cognito and DynamoDB
 - Utilized Terraform to deploy infrastructure to support a web application
 - Architected and provisioned CI/CD pipeline to automate deployment of code using Jenkins and AWS developer tooling
