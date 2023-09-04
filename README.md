@@ -17,7 +17,7 @@ Twitter: https://twitter.com/MSoup10
 
 ## Work-history
 
-### Software Engineer - Cloud Residency - Slalom
+### Software Engineer - Slalom
 _April 2023 - Present_
 - Architected and provisioned infrastructure to support a highly available web application in AWS
 - Produced a total cost of ownership estimate for the proposed solution
@@ -117,4 +117,3 @@ Get [here](https://drive.google.com/file/d/1iado7fcH04yTOhYfTbhKuDgjjwceEKmP/vie
 - MITx 6.00.2 - Introduction to Computational Thinking and Data Science
 - Gengo Pro Level Translator
 - TEFL 120H
-
