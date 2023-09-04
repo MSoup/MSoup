@@ -9,6 +9,23 @@ I'm a Canadian developer based in Japan with 4 years of experience in various te
 
 I love economics, financial markets, and tech. My resume is [here](#resume)
 
+- [Welcome to my Github. I'm Dave.](#welcome-to-my-github-i-m-dave)
+  * [Contact](#contact)
+  * [Work-history](#work-history)
+    + [Software Engineer - Slalom](#software-engineer---slalom)
+    + [Software Engineer - Innovature Technologies](#software-engineer---innovature-technologies)
+    + [System Engineer - Triplet R&D](#system-engineer---triplet-r-d)
+    + [Full Stack Software Engineer - Solacom (Long Term Intern)](#full-stack-software-engineer---solacom--long-term-intern-)
+  * [Before Entering Tech](#before-entering-tech)
+    + [Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)](#sendai-city-hello-world-programme-participant---sendai-city-board-of-education--direct-hire-)
+    + [Assistant Language Teacher - Hachinohe Board of Education (JET Programme)](#assistant-language-teacher---hachinohe-board-of-education--jet-programme-)
+  * [Code Samples](#code-samples)
+    + [Web Crawler API](#web-crawler-api)
+    + [Others](#others)
+  * [Education](#education)
+  * [Resume](#resume)
+  * [Certifications](#certifications)
+
 ## Contact
 Phone: 080-7857-4070  
 Email (preferred method of contact):  davenlu1989 (at) gmail (dot) com  
@@ -53,7 +70,7 @@ Accomplishments:
 - I mentored interns on the creation of a social distance detector using openCV (Python image detection library)
 
 ## Before Entering Tech
----
+
 ### Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)
 _August 2018 - April 2021 - 3 years_  
 
