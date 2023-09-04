@@ -1,26 +1,12 @@
-# Welcome to my Github. I'm Dave.
+![image](https://github.com/MSoup/MSoup/assets/19704779/daead117-53b2-4a15-89ea-0c1ab9348b8f)![image](https://github.com/MSoup/MSoup/assets/19704779/b2e9e700-91b5-4386-8298-c0b31134a7fb)# Welcome to my Github. I'm Dave.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/davenlu/)](https://www.linkedin.com/in/davenlu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davenlu1989@gmail.com)](mailto:davenlu1989@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MSoup10)](https://twitter.com/MSoup10) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/daven.lu)](https://www.facebook.com/daven.lu)
 
-I'm a Canadian developer based in Japan with 3 years of experience in various technologies, both as a software developer and as a bridge engineer. I'm bilingual in Japanese and English. 
+I'm a Canadian developer based in Japan with 4 years of experience in various technologies, both as a software developer and as a bridge engineer. I'm bilingual in Japanese and English. 
 
-I love Dance Dance Revolution, economics, financial markets, and tech. My resume is [here](#resume)
-
-## Navigation
-- [About Me](#about)
-- [Contact](#contact)
-- [Work History](#work-history)
-- [Code Examples](#code-samples)
-- [Education](#education)
-- [Resume](#resume)
-- [Certifications / Accomplishments](#accomplishments)
-
-## About
-Born and raised in Canada, I was on track to joining a big-3 bank in Canada as a data analyst, but threw everything away to come to Japan. Read on to find out more about my [career history](#work-history) and [personal projects](#projects).  
-
-I enjoy volleyball, lifting weights, eSports, and home automation. I don’t recommend curtains that open automatically.  
+I love economics, financial markets, and tech. My resume is [here](#resume)
 
 ## Contact
 Phone: 080-7857-4070  
@@ -33,17 +19,22 @@ Twitter: https://twitter.com/MSoup10
 
 ### Software Engineer - Cloud Residency - Slalom
 _April 2023 - Present_
-Develop, test, and debug cloud full-stack applications, including serverless applications, using software engineering best practices.
-Architect and provision infrastructure to support a cloud three-tier web application using well-architected best practices.
+- Architected and provisioned infrastructure to support a highly available web application in AWS
+- Produced a total cost of ownership estimate for the proposed solution
+- Provisioned infrastructure to support a three-tier web application and deployed to AWS
+- Developed a serverless full stack application using React, API Gateway, Lambda, Cognito and DynamoDB
+- Utilized Terraform to deploy infrastructure to support a web application
+- Architected and provisioned CI/CD pipeline to automate deployment of code using Jenkins and AWS developer tooling
+- Created technical documentation that can be referred to by development team
 
 ### Software Engineer - Innovature Technologies
 _June 2022 - April 2023_  
-Lead a team of engineers on a SaaS product that drives the advertising of world renowned companies. Tasks involved acting as a bridge to lead communication between Japanese and English developers. 
-Tech Stack: VueJS, AWS (EC2, ALB, Redis, Cloudformation)
+Lead a team of engineers on a SaaS product that drives the advertising of numerous world renowned companies. Tasks involved acting as a bridge to lead communication between Japanese and English developers. 
+Tech Stack: VueJS, AWS (EC2, ALB, RDS, Redis, Cloudformation)
 
 ### System Engineer - Triplet R&D
 _August 2021 - June 2022_  
-Met with Japanese clients to provide tech solutions to existing pain points. 
+Built dashboards for automotive companies and lead the initiative to revamp legacy parts monitoring applications.
 Tech Stack: Javascript, Python (Django Rest Framewok)
 
 Accomplishments:
@@ -117,12 +108,13 @@ _April 2012 - August 2012 - 1 semester_
 Updated as of November 2022
 Get [here](https://drive.google.com/file/d/1iado7fcH04yTOhYfTbhKuDgjjwceEKmP/view)
 
-## Accomplishments
-- Japanese Language Proficiency Test (JLPT) N1
-- Amazon Web Services Cloud Practitioner
+## Certifications
+- Japanese Language Proficiency Test (JLPT) N1 Certification
+- Amazon Web Services (AWS) Solutions Architect Associate
+- Azure AZ900 Cloud Fundamentals
+- Amazon Web Services (AWS) Certified Cloud Practitioner
 - MITx 6.00.1 - Introduction to Computer Science and Programming Using Python
 - MITx 6.00.2 - Introduction to Computational Thinking and Data Science
-- The Odin Project - Full Stack Course
 - Gengo Pro Level Translator
 - TEFL 120H
 
