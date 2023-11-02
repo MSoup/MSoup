@@ -36,13 +36,14 @@ Twitter: https://twitter.com/MSoup10
 ## Work-history
 
 ### Software Engineer - Slalom (April 2023 - Present)
+- Developed and showcased a digital human AI chatbot in front of thousands of project managers, engineers, and business leaders at Google Next Japan 2023 to demonstrate the capabilities of the Google Cloud Platform. 
+- Mentored juniors in the company on git best practices to create a smoother workflow. Suggestions included having a dedicated config file to map between projects, rebasing changes on the latest main branch as opposed to merging a lot of commits, and ways to keep commits atomic.
 - Architected and provisioned infrastructure to support a highly available web application in AWS
 - Produced a total cost of ownership estimate for the proposed solution
 - Provisioned infrastructure to support a three-tier web application and deployed to AWS
-- Developed a serverless full stack application using React, API Gateway, Lambda, Cognito and DynamoDB
+- Developed a serverless full-stack application using React, API Gateway, Lambda, Cognito and DynamoDB
 - Utilized Terraform to deploy infrastructure to support a web application
 - Architected and provisioned CI/CD pipeline to automate deployment of code using Jenkins and AWS developer tooling
-- Created technical documentation that can be referred to by development team
 
 ### Software Engineer - Innovature Technologies (June 2022 - April 2023)
 Lead a team of engineers on a SaaS product that drives the advertising of numerous world renowned companies.   
@@ -97,8 +98,8 @@ Oita, Japan
 _April 2012 - August 2012 - 1 semester_
 
 ## Resume
-Updated as of November 2022
-Get [here](https://drive.google.com/file/d/1iado7fcH04yTOhYfTbhKuDgjjwceEKmP/view)
+Updated as of November 2023
+Get [here](https://docs.google.com/document/d/1GE0XXqJ97a3yLgTvdsVay5VyMboe6eVCNkJ-QU0Zzzs/view)
 
 ## Certifications
 - Japanese Language Proficiency Test (JLPT) N1 Certification
