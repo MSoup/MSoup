@@ -69,10 +69,10 @@ Accomplishments:
 ## Before Entering Tech
 
 ### Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)
-_August 2018 - April 2021 - 3 years_  
+_August 2018 - 2021 - 3 years_  
 
 ### Assistant Language Teacher - Hachinohe Board of Education (JET Programme)
-_August 2013 - August 2018 - 5 years_  
+_August 2013 - 2018 - 5 years_  
 
 ## Code Samples
 ### Web Automation CICD Pipeline
