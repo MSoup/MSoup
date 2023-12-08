@@ -5,7 +5,7 @@
 
 # Welcome to my Github. I'm Dave.
 
-I'm a Canadian developer based in Japan with 4 years of experience in various technologies, both as a software developer and as a bridge engineer. I'm bilingual in Japanese and English. 
+I'm a Canadian developer based in Japan with 4 years of experience in software development and cloud architecture. I'm a Japanese/English bilingual. 
 
 I love economics, financial markets, and tech. My resume is [here](#resume)
 
@@ -16,9 +16,6 @@ I love economics, financial markets, and tech. My resume is [here](#resume)
     + [Software Engineer - Innovature Technologies (June 2022 - April 2023)](#software-engineer---innovature-technologies--june-2022---april-2023-)
     + [System Engineer - Triplet R&D (August 2021 - June 2022)](#system-engineer---triplet-r-d--august-2021---june-2022-)
     + [Full Stack Software Engineer - Solacom (Long Term Intern) (March 2021 - August 2021 - 6 months)](#full-stack-software-engineer---solacom--long-term-intern---march-2021---august-2021---6-months-)
-  * [Before Entering Tech](#before-entering-tech)
-    + [Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)](#sendai-city-hello-world-programme-participant---sendai-city-board-of-education--direct-hire-)
-    + [Assistant Language Teacher - Hachinohe Board of Education (JET Programme)](#assistant-language-teacher---hachinohe-board-of-education--jet-programme-)
   * [Code Samples](#code-samples)
     + [Web Automation](#Web-Automation-CICD-Pipeline)
     + [Others](#others)
@@ -36,7 +33,7 @@ Twitter: https://twitter.com/MSoup10
 ## Work-history
 
 ### Software Engineer - Slalom (April 2023 - Present)
-- Developed and showcased a digital human AI chatbot in front of thousands of project managers, engineers, and business leaders at Google Next Japan 2023 to demonstrate the capabilities of the Google Cloud Platform. 
+- Developed and showcased an AI digital human at Google Next 2023 to increase company visibility and employee capabilities. The event got thousands of project managers, engineers, and business leaders to demonstrate the capabilities of the Google Cloud Platform. This AI was created by leveraging the Google Cloud Platform--serverless cloud functions behind an API Gateway. I coded the backend logic and created Terraform modules so that the project could be deployed anywhere.
 - Mentored juniors in the company on git best practices to create a smoother workflow. Suggestions included having a dedicated config file to map between projects, rebasing changes on the latest main branch as opposed to merging a lot of commits, and ways to keep commits atomic.
 - Architected and provisioned infrastructure to support a highly available web application in AWS
 - Produced a total cost of ownership estimate for the proposed solution
@@ -46,33 +43,25 @@ Twitter: https://twitter.com/MSoup10
 - Architected and provisioned CI/CD pipeline to automate deployment of code using Jenkins and AWS developer tooling
 
 ### Software Engineer - Innovature Technologies (June 2022 - April 2023)
-Lead a team of engineers on a SaaS product that drives the advertising of numerous world renowned companies.   
+Led a team of engineers on a SaaS product that drives the advertising of numerous world-renowned companies.   
 Tech Stack: VueJS, AWS (EC2, ALB, RDS, Redis, Cloudformation)
 
 ### System Engineer - Triplet R&D (August 2021 - June 2022) 
-- Built dashboards for automotive companies and lead the initiative to revamp legacy parts monitoring applications.  
+- Built dashboards for automotive companies and led the initiative to revamp legacy parts monitoring applications.  
 -   Increased web application performance by 30% by porting over a legacy codebase responsible for analyzing sensors to detect faulty equipment, patching issues with redundant database writes
 -   Solved a race condition problem where fault detectors didn’t trigger when they should have and saved tens of thousands of dollars of lost productivity
 -   Bridge Engineer / PM work experience: Oversaw the development of a video streaming app. Dockerized and deployed the app for the client.
 -   Established a set of best practices for version control by suggesting better naming conventions and incorporating Github Actions scripts to check builds, resulting in a significantly enhanced workflow
 
-Tech Stack: Javascript, Python (Django Rest Framewok)
+Tech Stack: Javascript, Python (Django Rest Framework)
 
 ### Full Stack Software Engineer - Solacom (Long Term Intern) (March 2021 - August 2021 - 6 months)
-Solacom wanted to expand headquarters into America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
+Solacom wanted to expand its headquarters in America and Hong Kong, so I created a modern English-facing website during my time there. I also mentored fellow interns and taught them how to code using object oriented programming principals.
 Tech Stack: React, GatsbyJS, NextJS
 
 Accomplishments:
 - My [modern single page application style website](https://solacom.gatsbyjs.io/) built with React and GatsbyJS was extremely positively received by the staff and CEO. 
 - I mentored interns on the creation of a social distance detector using openCV (Python image detection library)
-
-## Before Entering Tech
-
-### Sendai City Hello World Programme Participant - Sendai City Board of Education (Direct Hire)
-_August 2018 - 2021 - 3 years_  
-
-### Assistant Language Teacher - Hachinohe Board of Education (JET Programme)
-_August 2013 - 2018 - 5 years_  
 
 ## Code Samples
 ### Web Automation CICD Pipeline
@@ -82,6 +71,11 @@ _August 2013 - 2018 - 5 years_
 2. Embeds them into discord via webhooks
 
 ![sample_spec](https://github.com/MSoup/discord-market-publish/blob/main/assets/example_spec.png)
+
+### (In Progress) OpenAI API Wrapper
+- A tool that abstracts ChatGPT to allow anyone to ask GPT questions by simply typing `gpt <prompt>` in the command line
+- Written in Python, automation scripts aid the alias shortcut
+- ArgParse used to enable `-v` to select GPT4 when higher accuracy is needed
 
 ### Others
 - Please scroll to the bottom to see listed repositories I'm particularly proud of
