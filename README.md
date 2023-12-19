@@ -87,20 +87,17 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
 -   Code sample [here](https://github.com/MSoup/discord-market-publish)
 -   A tool that integrates Github actions for a two-part system:
 
-1. Screenshots various financial instruments from investing.com via Playwright scripts (see below for report UI)
+1. Screenshots various financial instruments from investing.com via Playwright scripts
    <img src="https://github.com/MSoup/discord-market-publish/blob/main/assets/example_spec.png?raw=true" alt="drawing" width="600"/>
 
-2. Embeds them into discord via webhooks
-
-<img src="https://github.com/MSoup/discord-market-publish/blob/main/assets/example_discord_embed.png?raw=true" alt="drawing" width="300"/>
+2. [Embeds them into discord](https://github.com/MSoup/discord-market-publish/blob/main/assets/example_discord_embed.png?raw=true) via webhooks
 
 ### OpenAI API Wrapper
 
--   A tool that abstracts ChatGPT to allow anyone to ask GPT questions by simply typing `gpt <prompt>` in the command line
+-   A cli tool that wraps ChatGPT to allow anyone to ask GPT questions by simply invoking `gpt <prompt>`
+    <img src="./assets/gpt.png" alt="gpt_command_line" width="800"/>
 -   Written in Python, automation scripts aid the alias shortcut
 -   ArgParse used to enable `-v` to select GPT4 when higher accuracy is needed
-
-<img src="./assets/gpt.png" alt="gpt_command_line" width="800"/>
 
 ### Others
 
