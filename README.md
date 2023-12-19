@@ -79,6 +79,7 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
 -   Uses Terraform to manage infrastructure state; deploys API Gateway with Lambda proxy integration, an S3 bucket, and configures all environment variables in a secure way
 -   Wraps openAI api TTS functionality (new as of Nov 2023) and demonstrates the benefits of local development with SAM with Terraform (hybrid approach released by AWS in 2023)
 -   Project ready for deployment and use for anyone with an AWS/openAI account
+    ![sample_tts](https://github.com/MSoup/openai-tts-api/raw/main/assets/tts_demo.gif)
 
 ### Web Automation CICD Pipeline
 
