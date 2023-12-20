@@ -18,8 +18,6 @@ I love economics, financial markets, and tech. My resume is [here](#resume)
     -   [System Engineer - Triplet R&D (August 2021 - June 2022)](#system-engineer---triplet-r-d--august-2021---june-2022-)
     -   [Full Stack Software Engineer - Solacom (Long Term Intern) (March 2021 - August 2021 - 6 months)](#full-stack-software-engineer---solacom--long-term-intern---march-2021---august-2021---6-months-)
 -   [Code Samples](#code-samples)
-    -   [Web Automation](#Web-Automation-CICD-Pipeline)
-    -   [Others](#others)
 -   [Education](#education)
 -   [Resume](#resume)
 -   [Certifications](#certifications)
@@ -83,6 +81,14 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
 
 ![sample_tts](https://github.com/MSoup/openai-tts-api/raw/main/assets/tts_demo.gif)
 
+### [OpenAI API GPT CLI](https://github.com/MSoup/cli-assistant)
+
+- automatically installs in a way that does not pollute .zshrc/.bashrc
+- ask GPT3.5 questions with `prompt "text_here"`
+-   Written in Python, automation scripts aid the alias shortcut
+-  `-v` flag to enable GPT4-turbo when higher accuracy is needed
+    <img src="./assets/gpt.png" alt="gpt_command_line" width="800"/>
+
 ### Web Automation CICD Pipeline
 
 -   Code sample [here](https://github.com/MSoup/discord-market-publish)
@@ -92,18 +98,6 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
    <img src="https://github.com/MSoup/discord-market-publish/blob/main/assets/example_spec.png?raw=true" alt="drawing" width="600"/>
 
 2. [Embeds them into discord](https://github.com/MSoup/discord-market-publish/blob/main/assets/example_discord_embed.png?raw=true) via webhooks
-
-### [OpenAI API GPT CLI](https://github.com/MSoup/cli-assistant)
-
-- automatically installs in a way that does not pollute .zshrc/.bashrc
-- ask GPT3.5 questions with `prompt "text_here"`
--   Written in Python, automation scripts aid the alias shortcut
--  `-v` flag to enable GPT4-turbo when higher accuracy is needed
-    <img src="./assets/gpt.png" alt="gpt_command_line" width="800"/>
-
-### Others
-
--   Please scroll to the bottom to see listed repositories I'm particularly proud of
 
 ## Education
 
