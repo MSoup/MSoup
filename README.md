@@ -5,9 +5,9 @@
 
 # Welcome to my Github. I'm Dave.
 
-I'm a Canadian developer based in Japan with 4 years of experience in software development and cloud architecture. I'm a Japanese/English bilingual.
+I'm a Japanese/English bilingual software engineer based in Japan with 4 years of experience in software development and cloud architecture. 
 
-I love economics, financial markets, and tech. My resume is [here](#resume)
+My resume is [here](#resume)
 
 # Navigation
 
@@ -35,12 +35,12 @@ Twitter: https://twitter.com/msoup10
 
 ### Software Engineer - Slalom (April 2023 - Present)
 
--   Currently working on a generativeAI project to aid consultants in creating presentation decks
+-   Currently working on a generative AI project to aid consultants in creating presentation decks
 -   Developed and showcased an AI digital human at Google Next 2023 to increase company visibility and employee capabilities. The event got thousands of project managers, engineers, and business leaders to demonstrate the capabilities of the Google Cloud Platform. This AI was created by leveraging the Google Cloud Platform--serverless cloud functions behind an API Gateway. I contributed to the backend logic and created Terraform modules so that the project could be deployed anywhere.
 -   Architected and provisioned infrastructure to support a highly available web application in AWS, and allowed repeatable deployments through Terraform
 -   Produced a total cost of ownership estimate for the proposed solution
 -   Provisioned infrastructure to support a three-tier web application and deployed to AWS
--   Developed a serverless full-stack application using React, API Gateway, Lambda, Cognito and DynamoDB
+-   Developed a serverless full-stack application using React, API Gateway, Lambda, Cognito, and DynamoDB
 -   Architected and provisioned CI/CD pipeline to automate deployment of code using Jenkins and AWS developer tooling
 
 ### Software Engineer - Innovature Technologies (June 2022 - April 2023)
@@ -49,7 +49,7 @@ Led a team of engineers on a SaaS product that drives the advertising of numerou
 
 -   Developed dashboards for a cosplay live-streaming application to track transactions within the web app (Angular, TypeScript, MySQL).
 -   In a SaaS web application, as the number of users grew, a database deadlock issue began slowing down the performance of the application. I presented the solution of using a simple and managed queue driver (Amazon SQS) and helped build out the architecture.
--   Saved the client several thousands of dollars a month by switching unused servers to EC2 on-demand instances, reducing the amount of backups we took from 24 to 12.
+-   Saved the client several thousands of dollars a month by switching unused servers to EC2 on-demand instances, reducing the number of backups we took from 24 to 12.
 
 -   Tech Stack: VueJS, AWS (EC2, ALB, RDS, Redis, Cloudformation)
 
@@ -66,7 +66,7 @@ Led a team of engineers on a SaaS product that drives the advertising of numerou
 
 Solacom wanted to expand its headquarters in America and Hong Kong, so I created a modern English-facing website during my time there.
 
--   Mentored interns with the creation of a social distance detector using openCV (Python image detection library)
+-   Mentored interns with the creation of a social distance detector using OpenCV (Python image detection library)
 -   Tech Stack: React, GatsbyJS, NextJS
 
 ## Code Samples
@@ -75,7 +75,7 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
 
 -   Auto deploy and manage infrastructure state with Terraform
 -   Deploys API Gateway with Lambda proxy integration, an S3 bucket, and configures all environment variables in a secure way
--   Wraps openAI api TTS functionality
+-   Wraps openAI API TTS functionality
 -   Locally develop with SAM and Terraform (hybrid approach released by AWS in 2023)
 -   Project ready for deployment and use for anyone with an AWS/openAI account
 
@@ -118,11 +118,11 @@ Get [here](https://drive.google.com/file/d/1dH29nw4pWCrlAA_33Ls3GvDFavoHPUmN/vie
 
 ## Certifications
 
--   Japanese Language Proficiency Test (JLPT) N1 Certification
--   Amazon Web Services (AWS) Solutions Architect Associate
--   Azure AZ900 Cloud Fundamentals
--   Amazon Web Services (AWS) Certified Cloud Practitioner
--   MITx 6.00.1 - Introduction to Computer Science and Programming Using Python
--   MITx 6.00.2 - Introduction to Computational Thinking and Data Science
--   Gengo Pro Level Translator
--   TEFL 120H
+-   Japanese Language Proficiency Test (JLPT) N1 Certification (2017)
+-   Amazon Web Services (AWS) Solutions Architect Associate (2023)
+-   Azure AZ900 Cloud Fundamentals (2023)
+-   Amazon Web Services (AWS) Certified Cloud Practitioner (2023)
+-   MITx 6.00.1 - Introduction to Computer Science and Programming Using Python (2015)
+-   MITx 6.00.2 - Introduction to Computational Thinking and Data Science (2016)
+-   Gengo Pro Level Translator (2015)
+-   TEFL 120H (2016)
