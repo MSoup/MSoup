@@ -73,11 +73,12 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
 
 ## Code Samples
 
-### Text to Speech Serverless API (Original)
+### [Text-to-Speech Serverless API Tool](https://github.com/MSoup/openai-tts-api)
 
--   Code sample [here](https://github.com/MSoup/openai-tts-api)
--   Uses Terraform to manage infrastructure state; deploys API Gateway with Lambda proxy integration, an S3 bucket, and configures all environment variables in a secure way
--   Wraps openAI api TTS functionality (new as of Nov 2023) and demonstrates the benefits of local development with SAM with Terraform (hybrid approach released by AWS in 2023)
+-   Auto deploy and manage infrastructure state with Terraform
+-   Deploys API Gateway with Lambda proxy integration, an S3 bucket, and configures all environment variables in a secure way
+-   Wraps openAI api TTS functionality
+-   Locally develop with SAM and Terraform (hybrid approach released by AWS in 2023)
 -   Project ready for deployment and use for anyone with an AWS/openAI account
 
 ![sample_tts](https://github.com/MSoup/openai-tts-api/raw/main/assets/tts_demo.gif)
@@ -92,12 +93,13 @@ Solacom wanted to expand its headquarters in America and Hong Kong, so I created
 
 2. [Embeds them into discord](https://github.com/MSoup/discord-market-publish/blob/main/assets/example_discord_embed.png?raw=true) via webhooks
 
-### OpenAI API Wrapper
+### [OpenAI API GPT CLI](https://github.com/MSoup/cli-assistant)
 
--   A cli tool that wraps ChatGPT to allow anyone to ask GPT questions by simply invoking `gpt <prompt>`
-    <img src="./assets/gpt.png" alt="gpt_command_line" width="800"/>
+- automatically installs in a way that does not pollute .zshrc/.bashrc
+- ask GPT3.5 questions with `prompt "text_here"`
 -   Written in Python, automation scripts aid the alias shortcut
--   ArgParse used to enable `-v` to select GPT4 when higher accuracy is needed
+-  `-v` flag to enable GPT4-turbo when higher accuracy is needed
+    <img src="./assets/gpt.png" alt="gpt_command_line" width="800"/>
 
 ### Others
 
