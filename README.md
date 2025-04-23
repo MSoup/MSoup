@@ -35,7 +35,9 @@ Twitter: https://twitter.com/msoup10
 
 ### Software Engineer - Slalom (April 2023 - Present)
 
--   Working with lots of generative AI projects. Currently leading the development of the front-end of an application to aid consultants in creating presentation decks by indexing internal company data and being able to dynamically reference them for deck generation. The result is drastically reduced man-hours used for researching and information gathering. Also working on implementing backend APIs that connect to said front-end.
+-   Working with lots of generative AI projects.
+-   Implemented a RAG solution to retrieve summarization of legal documents with a high enough accuracy to be used in production systems across North America. The result is thousands of hours saved via the augmented creation of regulatory filings. 
+-   Lead the development of the front-end of an application to aid consultants in creating presentation decks by indexing internal company data and being able to dynamically reference them for deck generation. Drastically reduced man-hours used for researching and information gathering.
 -   Developed and showcased an AI digital human at Google Next 2023 to increase company visibility and employee capabilities. The event got thousands of project managers, engineers, and business leaders to demonstrate the capabilities of the Google Cloud Platform. This AI was created by leveraging the Google Cloud Platform--serverless cloud functions behind an API Gateway. I contributed to the backend logic and created Terraform modules so that the project could be deployed anywhere.
 -   Architected and provisioned infrastructure to support a highly available web application in AWS, and allowed repeatable deployments through Terraform
 -   Produced a total cost of ownership estimate for the proposed solution
