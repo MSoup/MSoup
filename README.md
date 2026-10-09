@@ -115,8 +115,8 @@ _April 2012 - August 2012 - 1 semester_
 
 ## Resume
 
-Updated as of February 2024
-Get [here](https://drive.google.com/file/d/1mg1zy748ZLCuLbMJJwY3TIb2o9j4G6Ao/view?usp=sharing)
+Updated as of February 2026
+Get [here]([https://drive.google.com/file/d/1mg1zy748ZLCuLbMJJwY3TIb2o9j4G6Ao/view?usp=sharing](https://drive.google.com/file/d/1o6REDrp-Pj7kyv5CTd79CwTEjH5PfQLe/view?usp=sharing))
 
 ## Certifications
 
